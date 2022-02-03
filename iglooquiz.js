@@ -55,8 +55,8 @@ var quiz = {
 
   // (A2) HTML ELEMENTS
   hWrap: null, // HTML quiz container
-  hQn: null, // HTML question wrapper
-  hAns: null, // HTML answers wrapper
+  hQn: null, // HTML question wrap
+  hAns: null, // HTML answers wrap
 
   // (A3) GAME FLAGS
   now: 0, // current question
